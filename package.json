@@ -1,0 +1,19 @@
+{
+  "name": "basic-project",
+  "version": "1.0.0",
+  "description": "quick start for web project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aomelchuk/Basic-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aomelchuk/Basic-project/issues"
+  },
+  "homepage": "https://github.com/aomelchuk/Basic-project#readme"
+}
